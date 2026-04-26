@@ -32,6 +32,7 @@ https://github.com/ricardopolachini
 Victor Emanuel da Cruz Nardo 
 https://github.com/vnardo
 ## Código usado para rodar o nosso programa
+
 from random import * 
 numero_secreto = randint (0,100)
 print ("Tente advinhar o número entre 0 e 100!")
