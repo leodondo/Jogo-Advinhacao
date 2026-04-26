@@ -2,10 +2,15 @@
 Função: O desafio que fizemos em sala de aula consistia em criar um jogo onde o computador escolhe um número aleatório de 0 a 100 e se caso o usuário errar ele fala se o número é maior ou menor daquele que digitamos e pergunta outro palpite até o usuário acertar.
 ## Nome dos integrantes
 Leonardo Hiroshi Dondo de Freitas
+
 Gabriel Marinho Sarrão
+
 Caio Alexandre da Silva Tavares
+
 Murtllo Henrick Rosario Loiola Nascimento
+
 Ricardo Polachini Mayer Gomes Marques
+
 Victor Emanuel da Cruz Nardo
 ## Pré-requisitos
 Python 3.14
@@ -34,7 +39,9 @@ https://github.com/vnardo
 ## Código usado para rodar o nosso programa
 
 from random import * 
+
 numero_secreto = randint (0,100)
+
 print ("Tente advinhar o número entre 0 e 100!")
 
 while True:
